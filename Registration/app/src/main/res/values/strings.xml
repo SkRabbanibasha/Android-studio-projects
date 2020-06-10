@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="edit_name">Enter Name here</string>
+    <string name="edit_email">Enter E-Mail here</string>
+    <string-array name="data">
+        <item>ECE</item>
+        <item>CSE</item>
+        <item>IT</item>
+        <item>EEE</item>
+    </string-array>
+    <string name="textview_text">
+        sdfbbberbbdbfbbbbf skrabbanibasha88@gmail.com dbkbkbkbbbkbvk
+        jbbvbb 8555020309 dsdjbjjbjkbvj www.google.com bifbfbibbkfbkb
+        <b>bfbfbgjb</b>nfkgbgnnbvbdbbkbbkbbbbbbb
+        <u>djcbfjkbvkbkbkjb</u>
+        <i>jbsdjbjkbfkfkkkk djcbfjkbvkbkbkjb</i>
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+        djcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+        djcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+        djcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+        djcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+        djcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+        djcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+        djcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+        bjbbvkh
+        sdjvb
+        djcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvbdjcbfjkbvkbkbkjb
+        jbsdjbjkb
+        bjbbvkh
+        sdjvb
+
+    </string>
+</resources>
