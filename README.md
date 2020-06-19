@@ -66,3 +66,17 @@ Online (Via GoToMeeting / Google Meet)
 Assignments for more practice
 
 (Note: All coding assignments/challenges are optional.) 
+Material:
+Link https://developer.android.com/courses/fundamentals-training/overview-v2
+
+Recyclerview Dependency
+Link implementation 'androidx.recyclerview:recyclerview:1.2.0-alpha03
+
+Images
+https://drive.google.com/drive/folders/1NyQNbCD2D1wWzF2Yy6qX3h8NdVCwD7O7?usp=sharing
+
+Rectrofit Dependency
+implementation 'com.squareup.retrofit2:retrofit:2.1.0' implementation 'com.squareup.retrofit2:converter-scalars:2.1.0'
+
+compileOptions for Rectrofit
+compileOptions { sourceCompatibility JavaVersion.VERSION_1_8 targetCompatibility JavaVersion.VERSION_1_8 }
